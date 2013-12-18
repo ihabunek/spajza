@@ -1,1 +1,1 @@
-plink ihabunek@bezdomni.net -m remote
+plink ihabunek@bezdomni.net -m remote.sh
