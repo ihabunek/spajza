@@ -1,5 +1,0 @@
-cd ~/projects/spajza
-git pull
-source env/bin/activate
-make clean
-make html
