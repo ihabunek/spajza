@@ -10,6 +10,7 @@ Sastojci
 * 2 šalice mljevenih oraha
 * 1 šalica masti
 * 1-2 žlice meda
+* 1 jaje
 * 1 vrećica vanilin šećera
 
 .. note::
