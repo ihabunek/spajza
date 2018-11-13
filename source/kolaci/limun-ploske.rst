@@ -20,5 +20,6 @@ Preljev
 * 2 jaja
 * 2 žutanjka
 * 250g šećera
+* 3 žlice brašna
 
 Preliti preko pečene baze i peći 25min na 180°C.
