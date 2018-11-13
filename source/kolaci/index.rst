@@ -10,7 +10,8 @@ Sadržaj:
     baklava
     biskupski-kruh
     brownies
-    medenjaci
     kokos-rolada
+    limun-ploske
+    medenjaci
     pinze
     pracne
